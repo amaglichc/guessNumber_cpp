@@ -1,0 +1,3 @@
+﻿  guessTheNumber.ver2.cpp
+C:\Users\Михаил\Desktop\cppGitProjects\guessTheNumber.ver2\guessTheNumber.ver2\guessTheNumber.ver2.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  guessTheNumber.ver2.vcxproj -> C:\Users\Михаил\Desktop\cppGitProjects\guessTheNumber.ver2\x64\Debug\guessTheNumber.ver2.exe
